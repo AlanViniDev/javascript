@@ -19,10 +19,6 @@
        
         let max_num = Number.NEGATIVE_INFINITY; 
         
-        nums = [
-            100
-        ]
-        
         for (let num of function_array(array_param)){
             if (num > max_num){
                 // num = max_num -infinity
